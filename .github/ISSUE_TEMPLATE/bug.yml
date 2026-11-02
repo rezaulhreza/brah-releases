@@ -1,0 +1,38 @@
+name: Report a problem
+description: Something in Brah does not work as it should.
+labels: [problem]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for telling us. This page is public, so never paste a licence key, an API key or anything private.
+        For a licence, a payment or a refund, email brah@ferrolo.com instead.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what did Brah do instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we make it happen again?
+      placeholder: |
+        1. Open …
+        2. Ask Brah …
+        3. …
+  - type: input
+    id: version
+    attributes:
+      label: Brah version
+      description: Brah menu, then Settings, Licence tab. Filled in for you when you report from the app.
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+  - type: input
+    id: ai
+    attributes:
+      label: Which AI and voice?
+      placeholder: For example, ChatGPT and Deepgram

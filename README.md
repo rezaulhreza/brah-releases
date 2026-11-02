@@ -7,3 +7,10 @@ Downloads of [Brah](https://brah.ferrolo.com), your mate next to the cursor, for
 Brah is free to try for 7 days. Then pay once and keep it: email brah@ferrolo.com for a licence key.
 
 Installed copies update themselves. This repository only holds the release files.
+
+## Problems and ideas
+
+- [Report a problem](https://github.com/rezaulhreza/brah-releases/issues/new?template=bug.yml)
+- [Suggest a feature](https://github.com/rezaulhreza/brah-releases/issues/new?template=feature.yml)
+
+Licence, payment or refund: email brah@ferrolo.com. Never post a key here.

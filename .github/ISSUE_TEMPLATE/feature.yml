@@ -1,0 +1,31 @@
+name: Suggest a feature
+description: Something Brah should do, or do better.
+labels: [idea]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Look at the open ideas first. If yours is there, give it a 👍 instead: that is how we decide what comes next.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What should Brah do?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: When would you use it?
+      description: The app you were in and what you were trying to get done.
+  - type: input
+    id: version
+    attributes:
+      label: Brah version
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+  - type: input
+    id: ai
+    attributes:
+      label: Which AI and voice?

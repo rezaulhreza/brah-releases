@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Licence, payment or refund
+    url: mailto:brah@ferrolo.com
+    about: Email us. Never post a licence key or payment details here.
+  - name: Brah website
+    url: https://brah.ferrolo.com
+    about: Questions, use cases and the download.
