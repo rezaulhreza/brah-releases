@@ -1,6 +1,6 @@
 # Brah releases
 
-Downloads of [Brah](https://brah.ferrolo.com), your mate next to the cursor, for macOS 14 or later on Apple silicon.
+Downloads of [Brah](https://brah.ferrolo.com), your mate next to the cursor, for macOS 14 or later, on Apple silicon and Intel Macs.
 
 **[Download the newest Brah](https://github.com/rezaulhreza/brah-releases/releases/latest/download/Brah.dmg)**
 
