@@ -60,7 +60,7 @@ subscription.
 | ChatGPT subscription | Yes | Yes |
 | Anthropic API key | Yes | Yes |
 | Hermes | Yes | Yes, with its own tools |
-| Ollama, LM Studio or any OpenAI-compatible server | Yes | No: it points, you click |
+| OpenCode Go, Ollama, LM Studio or any OpenAI-compatible server | Yes | Yes, when the model takes tools and pictures |
 
 Use a local model with Ollama or LM Studio, and your screen and questions stay on your Mac.
 
