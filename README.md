@@ -4,7 +4,7 @@
 
 <p align="center">
   Ask about anything on your screen. Brah answers out loud and points at the thing with its own cursor.<br>
-  Ask it to do the job, and it clicks and types for you, after your yes.
+  Ask it to do the job, and it clicks and types for you.
 </p>
 
 <p align="center">
@@ -39,9 +39,8 @@ and sends it, with your question, to the AI you choose. You hear the answer, and
   whiteboard.
 - **Guides you step by step.** Ask how to do something. Brah points at the first click and waits.
   You click, Brah looks again and points at the next one, until the job is done.
-- **Does it for you, after a yes.** Ask Brah to do the job. It says what it will do and waits for
-  **Allow** or a spoken "yes". It asks again before anything risky, such as send, pay or delete.
-  Stop locks its hands at once.
+- **Does it for you.** Ask Brah to do the job, and it clicks and types. It checks with you before
+  anything risky, such as send, pay or delete. Stop ends the task at once.
 - **Draws live 3D scenes.** Ask "show me how a bike's gears turn the wheel" and Brah draws a scene
   that moves while it talks. Turn it, change it, save it as a picture or a 3D file.
 - **Hands-free.** Say "Hey Brah" and talk. The wake word is heard on your Mac, and no audio leaves
@@ -72,7 +71,7 @@ Recorded at 2x speed with no sound. In real use, Brah says each step out loud.
 
 ![Brah works through six tasks on a test dashboard and asks before it sends an invoice](media/demo.gif)
 
-![Brah asks before it acts: Allow, Always allow or Not now](media/approval.png)
+![Brah checks with you before a risky step](media/approval.png)
 
 ## Install
 
@@ -104,8 +103,8 @@ The full detail: [privacy policy](https://brah.ferrolo.com/privacy) and
 **Is Brah a ChatGPT or Claude app?** No. Brah is a separate Mac app that uses the Claude, ChatGPT,
 Hermes or local model you already have.
 
-**Can Brah click things without asking?** No. Its screen tools stay locked until you allow the
-action, and it asks again before risky steps.
+**Can Brah send, pay or delete without asking?** No. It checks with you before risky steps like
+those.
 
 **Can my screen stay on my Mac?** Yes. Use a local model in Ollama or LM Studio, and set hearing to
 This Mac. Only the spoken answer goes to the voice service you pick, as text.
