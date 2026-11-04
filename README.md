@@ -103,8 +103,9 @@ The full detail: [privacy policy](https://brah.ferrolo.com/privacy) and
 **Is Brah a ChatGPT or Claude app?** No. Brah is a separate Mac app that uses the Claude, ChatGPT,
 Hermes or local model you already have.
 
-**Can Brah send, pay or delete without asking?** No. It checks with you before risky steps like
-those.
+**Can Brah send, pay or delete without asking?** In Auto mode, Brah asks before risky steps like
+those. These safeguards lower the risk, but we cannot guarantee them: the AI can get a step
+wrong. Watch what Brah does, and press Stop if something looks wrong.
 
 **Can my screen stay on my Mac?** Yes. Use a local model in Ollama or LM Studio, and set hearing to
 This Mac. Only the spoken answer goes to the voice service you pick, as text.
